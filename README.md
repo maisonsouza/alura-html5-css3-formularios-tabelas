@@ -54,4 +54,9 @@
  - A *tag* `tf`, que representa a célula do rodapé da tabela
 - A estilizar a tabela
 
+### Certificado
+
+[Certificado](https://cursos.alura.com.br/certificate/maisongalvao/html5-css3-formularios-tabelas)
+
+
 
