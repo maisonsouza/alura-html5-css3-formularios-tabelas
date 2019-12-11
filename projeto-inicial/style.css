@@ -165,7 +165,7 @@ form{
 	margin: 40px 0;
 }
 
-form label, form p{
+form label, form legend{
 	display: block;
 	font-size: 20px;
 	margin:0 0 10px;
@@ -173,8 +173,9 @@ form label, form p{
 
 
 .input-padrao{
+	width: 50%;
+	margin-bottom: 20px;
 	display: block;
-	margin:0 0 20px;
 	padding: 10px;
 }
 
