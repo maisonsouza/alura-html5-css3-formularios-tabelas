@@ -8,6 +8,15 @@
 - Um pouco sobre os formulários
 
 ## Começando com um formulário.
+- A criar um formulário HTML
+ - A *tag* que o representa é a `<form>`
+- A *tag* `<input>`, para a entrada de dados do usuário
+- A criar uma *etiqueta* para o `input`, com a *tag* `<label>`
+- A conectar um `input` com o seu `label`
+ - Colocamos um `id` para o `input` e associamos esse `id` ao atributo `for` do `label` 
+- Alguns tipos de `input`, como `text` e `submit`
+- Que `label` e `input` por padrão possuem o `display` `inline`
+- A estilizar o nosso formulário
 
 ## Tipos de campos diferentes.
 - O textarea, para entradas de texto de mais de uma linha
@@ -28,6 +37,10 @@
 - Como adicionar uma alternativa à imagem, descrevendo-a, com o atributo `alt`
 
 ## Css Avançado.
+- Como estilizar o botão de envio de formulário
+- A realizar transições nos nossos elementos, com a propriedade CSS **`transition`**
+- A modificar o estilo do ponteiro do mouse, quando passar por cima de determinado elemento, através da propriedade CSS **`cursor`** 
+- A realizar transformações nos nossos elementos, como aumentar proporcionalmente a escala de determinado elemento ou rotacioná-lo, através da propriedade CSS **`transform`**
 
 ## Estrutura de tabelas.
 
